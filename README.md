@@ -10,6 +10,10 @@ Dataset ini dipilih karena kelengkapan variabelnya yang mencakup berbagai aspek 
 4. Eunike Prasetyaning Yuniawan  (K1D024026)
 5. Armelda Shafa Wardhani  (K1D024029)
 # Sumber Dataset
+ Life Expectancy (WHO) : https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who
+ Dataset yang digunakan dalam penelitian ini adalah Life Expectancy Data yang dikompilasi oleh WHO (World Health Organization) dan United Nations. Dataset ini berisi data statistik kesehatan, ekonomi, pendidikan, dan sosial dari 193 negara yang tercatat selama periode 16 tahun, yaitu dari tahun 2000 hingga 2015.
+Dataset ini dipilih karena kelengkapan variabelnya yang mencakup berbagai aspek kehidupan yang secara teoritis berpengaruh terhadap angka harapan hidup. Selain itu, dataset ini telah banyak digunakan dalam penelitian bidang kesehatan dan machine learning, sehingga validitas dan relevansinya sudah teruji. Dataset memenuhi seluruh persyaratan minimal yang ditetapkan dalam tugas project ini, yaitu memiliki lebih dari 1000 observasi, lebih dari 5 kolom fitur, memuat campuran tipe data numerik dan kategorik, serta memiliki satu kolom target yang jelas.
+
 # Cara Menjalankan
 Google Colab (Direkomendasikan)
 1. Buka Google Colab
