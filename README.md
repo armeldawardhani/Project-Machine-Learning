@@ -2,6 +2,11 @@
 Prediksi Life Expectancy Menggunakan Pendekatan Machine Learning (Regresi)
 # Deskripsi Project
 # Anggota Tim
+1. Ardika Wahyu Fariz  (K1D024013)
+2. Meylina Nur Sasmita  (K1D024017)
+3. Fatih Maulana Luthf Rabbaanii  (K1D024022)
+4. Eunike Prasetyaning Yuniawan  (K1D024026)
+5. Armelda Shafa Wardhani  (K1D024029)
 # Sumber Dataset
 # Cara Menjalankan
 # Ringkasan Hasil
